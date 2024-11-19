@@ -2,3 +2,15 @@ body{
     background-image: url(retro-futurism-background-free-vector.jpg);
     background-size: cover;
 }
+.prvni{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: rgb(117, 0, 0);
+}
+.druhy{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: blue;
+}
+.treti{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: grey;
+}
