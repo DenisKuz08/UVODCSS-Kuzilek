@@ -1,0 +1,46 @@
+body{
+    background-image: url(retro-futurism-background-free-vector.jpg);
+    background-size: cover;
+}
+.prvni{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: rgb(117, 0, 0);
+}
+.druhy{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: blue;
+}
+.treti{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: grey;
+}
+.usporadany{
+    list-style-type:upper-roman;
+    color: chartreuse;
+    font-size: x-large;
+}
+.usporadanydva{
+    list-style-type: upper-roman;
+    color: cyan;
+    font-size: x-large;
+}
+.usporadanytreti{
+    list-style-type: upper-roman;
+    color: fuchsia;
+    font-size: x-large;
+}
+.neusporadany{
+    list-style-type: none;
+    background-image: url(Puppy-Nutrition-Image-list.png.webp);
+    background-size: 10px 10px;
+    background-repeat: no-repeat;
+    padding-left: 20px;
+}
+.neusporadanydva{
+    font-size: xx-large;
+    list-style-type: square;
+}
+.neusporadanytreti{
+    font-size: xx-large;
+    list-style-type:georgian
+}
